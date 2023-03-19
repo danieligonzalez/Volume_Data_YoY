@@ -11,7 +11,7 @@ I think they just want to see Q2 2021 volume by region and wanted to know if eve
 ## Ask
 To start off it was important to clarify the objective and set clear goals for the project.
 
-The goal is to find volume by region and compare Year over Year to determine if Q2 2021 is looking good.
+The goal was to find volume by region and compare Year over Year to determine if Q2 2021 is looking good.
 
 ## Prepare
 The data tables were not to big for EXCEL.  There were 2 tables, one for Volume Data and another for GEO Data.  Region codes were not attached to clients, but the GEO codes will help determine Region according to the original request.
